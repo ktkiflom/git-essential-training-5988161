@@ -1,5 +1,4 @@
 hello 
-
-
-ok 
-git 
+bye 
+okay 
+nice
